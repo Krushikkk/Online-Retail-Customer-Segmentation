@@ -1,1 +1,4 @@
 # Online-Retail-Customer-Segmentation
+This project aims to use unsupervised machine learning techniques to segment customers of an online retail business. The segmentation is based on customers' purchasing behavior, and the goal is to identify groups of customers with similar characteristics to tailor marketing strategies and improve customer satisfaction.
+
+The project uses unsupervised machine learning algorithms such as K-Means clustering and Principal Component Analysis (PCA) to segment the customers. The data is preprocessed and cleaned to remove any inconsistencies or missing values. Feature engineering is also performed to extract relevant features that are used for segmentation.The project demonstrates how unsupervised machine learning techniques can be used to segment customers and provide valuable insights for businesses. The identified customer segments can be used to tailor marketing strategies, improve customer satisfaction, and increase profitability.
